@@ -241,9 +241,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4DCEF2641D41A2A200724BCD /* Build configuration list for PBXNativeTarget "G4ShareSpy" */;
 			buildPhases = (
+				4DCEF24D1D41A2A200724BCD /* Headers */,
 				4DCEF24B1D41A2A200724BCD /* Sources */,
 				4DCEF24C1D41A2A200724BCD /* Frameworks */,
-				4DCEF24D1D41A2A200724BCD /* Headers */,
 				4DCEF24E1D41A2A200724BCD /* Resources */,
 			);
 			buildRules = (
